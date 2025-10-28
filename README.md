@@ -1,8 +1,7 @@
 # Object-detection-using-web-camera
 
-<H3>Name: SANJEEV RAJ.S</H3>
-<H3>Register no: 212223220096</H3>
-<H3>Date: 30.9.2025 </H3>
+<H3>NAME : NITHISHKUMAR S</H3>
+<H3>Register no: 212223240109</H3>
 
 # AIM:
 To perform real-time object detection using a trained YOLO v4 model through your laptop camera.
